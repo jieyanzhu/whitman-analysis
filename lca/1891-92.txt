@@ -1,2 +1,0 @@
-filename, wordtypes, swordtypes, lextypes, slextypes, wordtokens, swordtokens, lextokens, slextokens, ld, ls1, ls2, vs1, vs2, cvs1, ndw, ndwz, ndwerz, ndwesz, ttr, msttr, cttr, rttr, logttr, uber, lv, vv1, svv1, cvv1, vv2, nv, adjv, advv, modv
-1891-92.txt, 13081, 11634, 12789, 11418, 123269, 40577, 64028, 36628, 0.51942, 0.57206, 0.88938, 0.19706, 616.21685, 17.55302, 13081, 47, 40.50000, 35.90000, 0.10612, 0.74986, 26.34505, 37.25753, 0.80863, 26.60280, 0.19974, 0.23475, 874.44070, 20.90981, 0.05818, 0.23628, 0.05216, 0.00453, 0.05669
