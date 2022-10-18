@@ -1,4 +1,4 @@
 # whitman-analysis
 This repo stores codes for studying Whitman's stylistic changes using text analysis.
 
-Some useful packages used: [The Macro-Etymological Analyzer](https://github.com/JonathanReeve/macro-etym)
+Some useful packages used (in addtion to the standard nltk): [The Macro-Etymological Analyzer](https://github.com/JonathanReeve/macro-etym), [Lexical Complexity Analyzer](http://www.personal.psu.edu/xxl13/downloads/lca.html), and [VADER-Sentiment-Analysis](https://github.com/cjhutto/vaderSentiment).
